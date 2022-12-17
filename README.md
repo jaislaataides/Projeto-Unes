@@ -22,4 +22,4 @@ Esse foi o primeiro projeto de um curso da Udemy para aplicação dos conceitos 
 
 <h2 name="goto">Para acessar</h2>
 
-Para acessar esse site é simples, apenas clique no <a href = "">link</a>.
+Para acessar esse site é simples, apenas clique no <a href="https://projeto-unes-omega.vercel.app">link</a>.
