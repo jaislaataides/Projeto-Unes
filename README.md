@@ -11,7 +11,7 @@
 
 <h2 name="sobre">Sobre</h2>
 
-Esse foi o primeiro projeto de um curso da Udemy para aplicação dos conceitos básicos do HTML. É um site estático sem aplicação de responsividade.
+Esse foi o primeiro projeto de um curso da Udemy para aplicação dos conceitos básicos do HTML. A aplicação se trata de um site para uma universidade fictícia chamada UNES. É um site estático e sem aplicação de responsividade. 
 
 <h2 name="built">Feito em</h2>
 
